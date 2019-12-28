@@ -1,0 +1,17 @@
+{
+  "name": "i18n-tool",
+  "version": "1.0.0",
+  "description": "i18n 工具",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^3.5.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-replace": "^1.0.0"
+  }
+}

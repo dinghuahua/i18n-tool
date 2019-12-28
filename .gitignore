@@ -1,0 +1,16 @@
+#osx
+.DS_Store
+
+# Editors
+## webstorm
+.idea/
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+.idea/static-weixin.iml
+.idea/vcs.xml
+.idea/workspace.xml
+
+## vscode
+.vscode
+.history
